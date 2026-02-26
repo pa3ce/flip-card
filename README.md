@@ -1,2 +1,5 @@
 # Flip Card
-the flip card app for revisions
+
+The flip card app for revisions.
+
+Create folders as subjects, then add your questions to them.
